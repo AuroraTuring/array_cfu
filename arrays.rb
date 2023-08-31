@@ -26,7 +26,7 @@ puts ages.unshift
 
 
 
-# Additional Pracctice:
+# Additional Practice:
 # This will call the name of the first element. 
 puts friends.first 
 

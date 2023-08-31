@@ -4,16 +4,16 @@ temperatures = [98.6, 99.5, 100.4, 101.3]
 sick = [true, false, true, false]
 
 
-# Calling this method returns the last element to you. 
+# Calling this method removes and returns the last element to you. 
 puts temperatures.pop 
 
 # Calling this method adds an element to the end of the variable.
 puts ages.push 25
 
 # Calling this method adds an element to the beginning of the variable.
-puts friends.shift Mika
+puts ages.shift 50
 
-# Calling this method returns the first element to you. 
+# Calling this method removes and returns the first element to you. 
 puts temperatures.unshift
 
 

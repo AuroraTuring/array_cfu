@@ -11,10 +11,10 @@ puts temperatures.pop
 puts ages.push 25
 
 # Calling this method adds an element to the beginning of the variable.
-puts friends.shift
+puts friends.shift Mika
 
 # Calling this method returns the first element to you. 
-puts ages.unshift
+puts temperatures.unshift
 
 
 # Index Positions:
@@ -22,7 +22,9 @@ puts ages.unshift
 # Each index is assigned a number between 0 and infinity, but in order. 
 # You can use the number to look up the elements in the array.
 
-
+# Additional Array: 
+# This array takes your elements and shuffles them.
+puts ages.shuffle 
 
 
 

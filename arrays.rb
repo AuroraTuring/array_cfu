@@ -17,6 +17,11 @@ friends.shift
 ages.unshift
 
 
+# Index Positions:
+# friends[2] = Jessie because indexes start at 0, and she is the 2nd index even though she's 3rd in the line.
+# Each index is assigned a number between 0 and infinity, but in order. 
+# You can use the number to look up the elements in the array.
+
 
 
 

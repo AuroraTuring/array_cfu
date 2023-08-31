@@ -7,4 +7,4 @@ This is honestly where I'm getting a bit stuck. Learning the word definitions an
 I need extra practice in arrays for sure. I'm not sure the best way to go about doing that besides repeating the lessons.
 
 - **What questions do you have about Arrays?**
-TextHow can I memorize them easier? 
+How can I memorize them easier? 

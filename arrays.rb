@@ -10,11 +10,11 @@ temperatures.pop
 # Calling this method adds an element to the end of the variable.
 ages.push 25
 
-# text
-shift
+# Calling this method adds an element to the beginning of the variable.
+friends.shift
 
-# text 
-unshift
+# Calling this method returns the first element to you. 
+ages.unshift
 
 
 
